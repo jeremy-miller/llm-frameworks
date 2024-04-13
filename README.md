@@ -6,6 +6,7 @@ Code trying out the following LLM application frameworks and libraries:
   - [LangSmith](https://smith.langchain.com)
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/)
 - [Haystack](https://haystack.deepset.ai/tutorials/27_first_rag_pipeline)
+- [Transformers](https://huggingface.co/docs/transformers/quicktour)
 
 ## Setup
 
