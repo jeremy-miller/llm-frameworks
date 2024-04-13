@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3      # LangChain
+faiss-cpu==1.8.0            # LangChain
+fastapi==0.110.1            # LangChain
+jupyterlab==4.1.6           # LangChain
+langchain==0.1.16
+langchainhub==0.1.15        # LangChain
+langchain-openai==0.1.3     # LangChain
+langserve[all]==0.0.51      # LangChain
+python-dotenv==1.0.1
